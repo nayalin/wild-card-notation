@@ -1,0 +1,24 @@
+{
+  "name": "wild-card-notation",
+  "version": "1.0.0",
+  "description": "Simple module to validate, retrieve, and set values to wild-card annotations.",
+  "main": "wild-card-notation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nayalin/wild-card-notation"
+  },
+  "keywords": [
+    "wildcard",
+    "regex",
+    "notation"
+  ],
+  "author": "Noel Leonard Ayalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayalin/wild-card-notation/issues"
+  },
+  "homepage": "https://github.com/nayalin/wild-card-notation"
+}
